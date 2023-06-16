@@ -1,4 +1,4 @@
-# frontend-maven-plugin
+### frontend-maven-plugin
 
 [![Build Status OSX and Linux](https://travis-ci.org/eirslett/frontend-maven-plugin.png?branch=master)](https://travis-ci.org/eirslett/frontend-maven-plugin)
 [![Build status Windows](https://ci.appveyor.com/api/projects/status/vxbccc1t9ceadhi9?svg=true)](https://ci.appveyor.com/project/eirslett/frontend-maven-plugin)
